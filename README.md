@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/lyEAzKo"  ><a href="//imgur.com/a/lyEAzKo">Levin&#39;s PreWork</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ![](https://imgur.com/8kYuAmr)
 
 
